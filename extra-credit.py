@@ -28,3 +28,4 @@ def resgame():
         print 'Congrats, you win! You guessed correctly ' + right_answers + 'times!'
     return 'You were incorrect ' + wrong_answers + 'times, and correct ' + right_answers + 'times.'
   
+#Why do I keep getting permission denied?
